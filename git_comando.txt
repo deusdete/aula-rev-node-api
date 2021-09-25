@@ -26,4 +26,4 @@ git remote add origin https://gitlab.com/deusdete/api-nodejs-simples.git
 # Agora podemos enviar nosso projeto ou as modificações do nosso código para o GitHub
 Vamos executar o comando abaixo para enviar
 
-git push 
+git push -u origin master
