@@ -1,4 +1,4 @@
-# Primeiro comando para iniciar um repositório no Git
+## Primeiro comando para iniciar um repositório no Git
 
 git init
 
@@ -9,12 +9,12 @@ node_modules
 
 yarn.lock
 
-# agora você deve adicionar os arquivos no controle de versão do git 
+## agora você deve adicionar os arquivos no controle de versão do git 
 
 git add .
 
 
-# O proximo comando que devemos fazer é commitar o trabalho que fizemos e 
+## O proximo comando que devemos fazer é commitar o trabalho que fizemos e 
 colocar uma mensagem
 
 git commit -m "Coloque uma mensagem doq ue vc fez no projeto"
@@ -23,7 +23,7 @@ git commit -m "Coloque uma mensagem doq ue vc fez no projeto"
 
 git remote add origin https://gitlab.com/deusdete/api-nodejs-simples.git
 
-# Agora podemos enviar nosso projeto ou as modificações do nosso código para o GitHub
+## Agora podemos enviar nosso projeto ou as modificações do nosso código para o GitHub
 Vamos executar o comando abaixo para enviar
 
 git push -u origin master
